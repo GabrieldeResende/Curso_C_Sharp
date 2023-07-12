@@ -1,0 +1,15 @@
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\bin\Debug\net6.0\EX01.exe
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\bin\Debug\net6.0\EX01.deps.json
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\bin\Debug\net6.0\EX01.runtimeconfig.json
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\bin\Debug\net6.0\EX01.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\bin\Debug\net6.0\EX01.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.AssemblyInfoInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.AssemblyInfo.cs
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\refint\EX01.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\EX01.genruntimeconfig.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\EX01\EX01\obj\Debug\net6.0\ref\EX01.dll

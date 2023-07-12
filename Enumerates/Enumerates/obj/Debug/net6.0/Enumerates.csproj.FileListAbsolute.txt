@@ -1,0 +1,15 @@
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\bin\Debug\net6.0\Enumerates.exe
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\bin\Debug\net6.0\Enumerates.deps.json
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\bin\Debug\net6.0\Enumerates.runtimeconfig.json
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\bin\Debug\net6.0\Enumerates.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\bin\Debug\net6.0\Enumerates.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.AssemblyInfoInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.AssemblyInfo.cs
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\refint\Enumerates.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\Enumerates.genruntimeconfig.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\Enumerates\Enumerates\obj\Debug\net6.0\ref\Enumerates.dll

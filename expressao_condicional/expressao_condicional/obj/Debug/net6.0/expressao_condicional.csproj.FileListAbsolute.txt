@@ -1,0 +1,15 @@
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\bin\Debug\net6.0\expressao_condicional.exe
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\bin\Debug\net6.0\expressao_condicional.deps.json
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\bin\Debug\net6.0\expressao_condicional.runtimeconfig.json
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\bin\Debug\net6.0\expressao_condicional.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\bin\Debug\net6.0\expressao_condicional.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.csproj.AssemblyReference.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.AssemblyInfoInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.AssemblyInfo.cs
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.csproj.CoreCompileInputs.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\refint\expressao_condicional.dll
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.pdb
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\expressao_condicional.genruntimeconfig.cache
+C:\Users\Resende\Documents\Curso C# UDEMY\expressao_condicional\expressao_condicional\obj\Debug\net6.0\ref\expressao_condicional.dll
